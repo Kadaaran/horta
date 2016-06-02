@@ -1,2 +1,7 @@
 # horta
-API for plants 
+
+##API about plants 🌿  
+Build with Javascript.  
+
+
+
