@@ -1,0 +1,11 @@
+React, flux.
+https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
+
+request
+https://github.com/request/request
+
+cheerio
+https://github.com/cheeriojs/cheerio
+
+noun project plants
+https://thenounproject.com/hermine.laura.b/collection/plant/?i=355337
