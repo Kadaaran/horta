@@ -1,0 +1,13 @@
+{
+  "name": "horta",
+  "version": "0.0.1",
+  "description": "API for plants",
+  "main": "server.js",
+  "author": "Kass",
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
